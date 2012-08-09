@@ -4,9 +4,11 @@ If you use [Middleman](http://middlemanapp.com/), you can download this fileset 
 
 ## How to use
 
-1. Download files and copy smacss into 
+These instructions may change once this template set it folded into middleman-more.
+
+1. Download files and copy into 
 ```
-~/.middleman/ 
+~/.middleman/smacss/
 ```
 (you'll need to create the folder .middleman folder if it doesn't already exist).
 2. Initialize a new middleman project with the template flag 
